@@ -2,6 +2,8 @@
 
 An AI-powered workflow system that converts raw site inspection data (Inspection Reports and Thermal Scans) into a highly structured, professional, client-ready Detailed Diagnostic Report (DDR).
 
+### live deployment link: https://ai-generalist.onrender.com
+
 ## Overview
 
 This application uses the Groq API (Llama models) and an agentic architecture to:
