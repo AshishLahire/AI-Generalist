@@ -1,0 +1,8 @@
+groq
+pymupdf
+pdfkit
+streamlit
+python-dotenv
+playwright
+pydantic
+markdown
